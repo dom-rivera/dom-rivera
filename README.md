@@ -11,16 +11,6 @@ I'm a passionate HR Specialist from the Philippines. I love R programming, learn
 - ⚡ Fun fact: I enjoy reading books and I love watches
 
 ## 🛠️ Languages and Tools
-R
-Python
-Microsoft Excel
-!Dom's GitHub stats
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=dom-rps://dom-riverarojects
-- [Project 1](https://github.com/dom-rivera/projectreakdown
-<!--```text
-R Programming   10 hrs 30 mins ████████████████░░░░░░░░░   64.00 %
-Python          3 hrs 20 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.00 %
-Other           2 hrs          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Microsoft Excel 40 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   4.00 %
+### R
+### Python
+### Microsoft Excel
