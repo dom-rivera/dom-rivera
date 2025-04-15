@@ -1,4 +1,4 @@
-# Hi there, I'm Dom Rivera 👋
+# Hi there, I'm Dom 👋
 
 ## 🚀 About Me
 I'm a passionate HR Specialist from the Philippines. I love R programming, learning new technologies, and contributing to open-source projects.
@@ -11,9 +11,9 @@ I'm a passionate HR Specialist from the Philippines. I love R programming, learn
 - ⚡ Fun fact: I enjoy reading books and I love watches
 
 ## 🛠️ Languages and Tools
-# R
-# Python
-# Microsoft Excel
+R
+Python
+Microsoft Excel
 !Dom's GitHub stats
 
 ## 🏆 GitHub Trophies
