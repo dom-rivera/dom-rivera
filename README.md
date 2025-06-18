@@ -1,7 +1,7 @@
 # Hi there, I'm Dom
 
 ## 🚀 About Me
-I'm a passionate HR Specialist from the Philippines. I love data analytics, learning new technologies, and contributing to open-source projects.
+I'm a passionate HR Specialist from the Philippines. I enjoy data analytics, learning new technologies, and contributing to open-source projects.
 
 - 🔭 I’m currently a Graduate Candidate in Master of Arts in Psychology and a Full-time HR Specialist
 - 🌱 I’m currently learning R Programming, Python, Microsoft Excel, Power Automate, Power Apps, and Power BI
