@@ -14,3 +14,4 @@ I'm a passionate HR Specialist from the Philippines. I enjoy data analytics, lea
 ### R
 ### Python
 ### Microsoft Excel
+### Power BI
