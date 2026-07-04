@@ -11,7 +11,7 @@ I'm a passionate HR Specialist from the Philippines. I enjoy data analytics, lea
 - 💬 Ask me about Human Resources, Organization Development, Data Analytics, Psychology, and Psychometrics
 - 📫 How to reach me: https://www.linkedin.com/in/dom-joseph-rivera/
 - ⚡ Fun fact: I enjoy reading books, I love watches, and I am the lead guitarist of a local band in the Philippines.
-- 💬 Want to ace your Microsoft Certification? Free learning resources are out. It's free! https://1drv.ms/f/c/4a08c32bb53aa3d8/EoOalFAD8BVAuFi_oRgtUNkBJxSWMZim9BW7SZOZgkkpTw?e=6hKeMO
+- 💬 Want to ace your Microsoft Certification? Free learning resources are out. It's free! https://1drv.ms/b/c/4a08c32bb53aa3d8/IQBzYtWTCWocSocEfT46KVrpAbOMbhXGRxDIPW-UC2eWufM?e=bJnDZS
 
 ## 🛠️ Languages and Tools
 ### R
