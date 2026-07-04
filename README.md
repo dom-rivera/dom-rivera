@@ -1,6 +1,6 @@
 # Hi there, I'm Dom
 
-Stillwater is live: https://dom-rivera.github.io/stillwater/
+Stillwater is now live: https://dom-rivera.github.io/stillwater/
 
 ## 🚀 About Me
 I'm a passionate HR Specialist from the Philippines. I enjoy data analytics, learning new technologies, and contributing to open-source projects.
