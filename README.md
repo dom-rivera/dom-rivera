@@ -2,7 +2,7 @@
 
 Stillwater is now live: https://dom-rivera.github.io/stillwater/
 
-LernLift is now live: https://claude.ai/public/artifacts/06d88cb4-8432-4431-a55f-0c2e7dcbea33
+LernLift is now live: https://claude.ai/public/artifacts/252b6e7d-060e-4572-8d78-f3cbe60fd33e
 
 ## 🚀 About Me
 I'm a passionate HR Associate from the Philippines. I enjoy data analytics, learning new technologies, and contributing to open-source projects.
