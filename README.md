@@ -1,6 +1,6 @@
 # Dom Rivera
 
-**HR Shared Services Associate · Registered Psychometrician · MA Psychology candidate**
+**HR Shared Services Associate · Registered Psychometrician · MA Psychology graduate candidate**
 
 Results-driven HR Shared Services Associate and Registered Psychometrician with 4+ years of global HR experience in end-to-end recruitment operations, interview scheduling, onboarding, and analytics. Former psychology instructor with strong communication and leadership skills. Skilled in leveraging HR technology and data tools to drive operational efficiency and compliance.
 
@@ -63,7 +63,7 @@ A 3D sandcastle-building game for young children, built with Three.js and optimi
 - **[Web Scraping in R](https://github.com/dom-rivera/WebScrapping_R):** data collection for a fake-news literacy quiz for Filipino readers, developed for my graduate thesis proposal
 - **[AI for Data Analytics & BI](https://github.com/dom-rivera/AI-for-Data-Analytics-BI):** structured notes on generative AI and machine learning in Power BI
 
-**Tools:** Python · R · Power BI · Excel · Power Automate · JavaScript · HTML/CSS
+**Tools:** Python · R · Power BI · Excel · Power Automate · Claude AI
 
 ---
 
