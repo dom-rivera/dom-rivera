@@ -1,8 +1,10 @@
 # Dom Rivera
 
-**HR Shared Services Associate · Registered Psychometrician · MA Psychology graduate candidate**
+**HR Shared Services Associate · Registered Psychometrician · MA Psychology candidate**
 
-Results-driven HR Shared Services Associate and Registered Psychometrician with 4+ years of global HR experience in end-to-end recruitment operations, interview scheduling, onboarding, and analytics. Former psychology instructor with strong communication and leadership skills. Skilled in leveraging HR technology and data tools to drive operational efficiency and compliance.
+Results-driven HR Shared Services Associate and Registered Psychometrician with 4+ years of global HR experience in end-to-end
+recruitment operations, interview scheduling, onboarding, and analytics. Former psychology instructor with strong communication and
+leadership skills. Skilled in leveraging HR technology and data tools to drive operational efficiency and compliance.
 
 [LinkedIn](https://www.linkedin.com/in/dom-joseph-rivera/) · [The Change Dispatch](https://dom-rivera.github.io/change-dispatch)
 
@@ -36,15 +38,24 @@ Results-driven HR Shared Services Associate and Registered Psychometrician with 
 A daily digest of research on organizational change, AI at work and psychology. It publishes automatically every morning, uses only established sources, and every item is free to read.
 </td>
 <td width="50%" valign="top">
+<a href="https://claude.ai/public/artifacts/70e0091f-a32a-4797-af6d-25a0e6967c8f"><img src="https://raw.githubusercontent.com/dom-rivera/learnlift/main/og-image.png" alt="LearnLift"></a>
+<br><b><a href="https://claude.ai/public/artifacts/70e0091f-a32a-4797-af6d-25a0e6967c8f">LearnLift</a></b> · <a href="https://github.com/dom-rivera/learnlift">repository</a><br>
+An AI study tool that turns PDF and Word documents into quizzes and flashcards, with each question cited to its source.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://dom-rivera.github.io/stillwater/"><img src="https://raw.githubusercontent.com/dom-rivera/stillwater/main/og-image.png" alt="Stillwater"></a>
+<br><b><a href="https://dom-rivera.github.io/stillwater/">Stillwater</a></b> · <a href="https://github.com/dom-rivera/stillwater">repository</a><br>
+A privacy-first meditation app with guided sessions and breathing exercises. It runs entirely in the browser and collects no data.
+</td>
+<td width="50%" valign="top">
 <a href="https://dom-rivera.github.io/sandkins/"><img src="https://raw.githubusercontent.com/dom-rivera/sandkins/main/og-image.png" alt="Sandkins"></a>
-<br><b><a href="https://dom-rivera.github.io/sandkins/">Sandkins</a></b><br>
+<br><b><a href="https://dom-rivera.github.io/sandkins/">Sandkins</a></b> · <a href="https://github.com/dom-rivera/sandkins">repository</a><br>
 A 3D sandcastle-building game for young children, built with Three.js and optimized for phones and tablets.
 </td>
 </tr>
 </table>
-
-- **[LearnLift](https://claude.ai/public/artifacts/70e0091f-a32a-4797-af6d-25a0e6967c8f):** an AI study tool that turns PDF and Word documents into quizzes and flashcards, with each question cited to its source. ([repository](https://github.com/dom-rivera/learnlift))
-- **[Stillwater](https://dom-rivera.github.io/stillwater/):** a privacy-first meditation app with guided sessions and breathing exercises. It runs entirely in the browser and collects no data. ([repository](https://github.com/dom-rivera/stillwater))
 
 ---
 
