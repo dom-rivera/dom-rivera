@@ -2,7 +2,7 @@
 
 **HR Shared Services Associate · Registered Psychometrician · MA Psychology candidate**
 
-I build practical tools for HR teams and analyze workforce data to answer real business questions. I bring four years of experience in global recruitment, onboarding and HR reporting, along with a background in psychology and psychometrics, to everything I build. I'm based in the Philippines.
+Results-driven HR Shared Services Associate and Registered Psychometrician with 4+ years of global HR experience in end-to-end recruitment operations, interview scheduling, onboarding, and analytics. Former psychology instructor with strong communication and leadership skills. Skilled in leveraging HR technology and data tools to drive operational efficiency and compliance.
 
 [LinkedIn](https://www.linkedin.com/in/dom-joseph-rivera/) · [The Change Dispatch](https://dom-rivera.github.io/change-dispatch)
 
