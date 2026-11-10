@@ -2,9 +2,7 @@
 
 **HR Shared Services Associate · Registered Psychometrician · MA Psychology candidate**
 
-Results-driven HR Shared Services Associate and Registered Psychometrician with 4+ years of global HR experience in end-to-end
-recruitment operations, interview scheduling, onboarding, and analytics. Former psychology instructor with strong communication and
-leadership skills. Skilled in leveraging HR technology and data tools to drive operational efficiency and compliance.
+Results-driven HR Shared Services Associate and Registered Psychometrician with 4+ years of global HR experience in end-to-end recruitment operations, interview scheduling, onboarding, and analytics. Former psychology instructor with strong communication and leadership skills. Skilled in leveraging HR technology and data tools to drive operational efficiency and compliance.
 
 [LinkedIn](https://www.linkedin.com/in/dom-joseph-rivera/) · [The Change Dispatch](https://dom-rivera.github.io/change-dispatch)
 
@@ -38,14 +36,14 @@ leadership skills. Skilled in leveraging HR technology and data tools to drive o
 A daily digest of research on organizational change, AI at work and psychology. It publishes automatically every morning, uses only established sources, and every item is free to read.
 </td>
 <td width="50%" valign="top">
-<a href="https://claude.ai/public/artifacts/70e0091f-a32a-4797-af6d-25a0e6967c8f"><img src="https://raw.githubusercontent.com/dom-rivera/learnlift/main/og-image.png" alt="LearnLift"></a>
+<a href="https://claude.ai/public/artifacts/70e0091f-a32a-4797-af6d-25a0e6967c8f"><img src="https://raw.githubusercontent.com/dom-rivera/dom-rivera/main/learnlift-og.png" alt="LearnLift"></a>
 <br><b><a href="https://claude.ai/public/artifacts/70e0091f-a32a-4797-af6d-25a0e6967c8f">LearnLift</a></b> · <a href="https://github.com/dom-rivera/learnlift">repository</a><br>
 An AI study tool that turns PDF and Word documents into quizzes and flashcards, with each question cited to its source.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://dom-rivera.github.io/stillwater/"><img src="https://raw.githubusercontent.com/dom-rivera/stillwater/main/og-image.png" alt="Stillwater"></a>
+<a href="https://dom-rivera.github.io/stillwater/"><img src="https://raw.githubusercontent.com/dom-rivera/dom-rivera/main/stillwater-og.png" alt="Stillwater"></a>
 <br><b><a href="https://dom-rivera.github.io/stillwater/">Stillwater</a></b> · <a href="https://github.com/dom-rivera/stillwater">repository</a><br>
 A privacy-first meditation app with guided sessions and breathing exercises. It runs entirely in the browser and collects no data.
 </td>
@@ -65,7 +63,7 @@ A 3D sandcastle-building game for young children, built with Three.js and optimi
 - **[Web Scraping in R](https://github.com/dom-rivera/WebScrapping_R):** data collection for a fake-news literacy quiz for Filipino readers, developed for my graduate thesis proposal
 - **[AI for Data Analytics & BI](https://github.com/dom-rivera/AI-for-Data-Analytics-BI):** structured notes on generative AI and machine learning in Power BI
 
-**Tools:** Python · R · Power BI · Excel · Power Automate · Claude AI
+**Tools:** Python · R · Power BI · Excel · Power Automate · JavaScript · HTML/CSS
 
 ---
 
