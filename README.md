@@ -1,6 +1,6 @@
 # Dom Rivera
 
-**HR Shared Services Associate · Registered Psychometrician · MA Psychology candidate**
+**HR Shared Services Associate · Registered Psychometrician · MA Psychology graduate candidate**
 
 Results-driven HR Shared Services Associate and Registered Psychometrician with 4+ years of global HR experience in end-to-end recruitment operations, interview scheduling, onboarding, and analytics. Former psychology instructor with strong communication and leadership skills. Skilled in leveraging HR technology and data tools to drive operational efficiency and compliance.
 
